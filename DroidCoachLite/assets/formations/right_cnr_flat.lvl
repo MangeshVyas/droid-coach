@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formation name="LeftCornerFlat">
+	<player x=".25" y=".5" type=" G " />
+	<player x=".5" y=".5" type="SW" />
+	<player x=".55" y=".45" type="RFB" />
+	<player x=".7" y=".2" type="LFB" />
+	<player x=".7" y=".4" type="ST" />
+	<player x=".8" y=".2" type="LHB" />
+	<player x=".8" y=".45" type="CHB" />
+	<player x=".8" y=".4" type="CF" />
+	<player x=".98" y=".0" type="RHB" />
+	<player x=".8" y=".5" type="LF" />
+	<player x=".8" y=".3" type="RF" />	
+</formation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:id="@+id/llOptions"
+  android:orientation="horizontal"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:background="#ff000000">
+    <LinearLayout 
+    	android:orientation="vertical"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+    	
+    		<ListView
+    			android:id="@+id/lstRedFormation"
+    			android:layout_height="wrap_content" android:layout_width="110dip">
+    			
+    		</ListView>
+    		<CheckBox
+    			android:checked="true"
+    			android:id="@+id/chkShowRed"
+    			android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:text="Show Red">
+    		
+    		</CheckBox>
+    </LinearLayout>
+    <LinearLayout 
+    	android:orientation="vertical"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+    	
+    		<ListView
+    			android:id="@+id/lstBlueFormation"
+    			android:layout_height="wrap_content" android:layout_width="110dip">
+    			
+    		</ListView>
+    		<CheckBox
+    			android:checked="true"
+    			android:id="@+id/chkShowBlue"
+    			android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:text="Show Blue" android:clickable="true">
+    			
+    		</CheckBox>
+    </LinearLayout>
+</LinearLayout>

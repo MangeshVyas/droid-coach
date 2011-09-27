@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formation name="442">
+	<player x=".1" y=".5" type=" G " />
+	<player x=".2" y=".5" type="SW" />
+	<player x=".3" y=".3" type="LFB" />
+	<player x=".3" y=".7" type="RFB" />
+	<player x=".35" y=".5" type="ST" />
+	<player x=".45" y=".15" type="LHB" />
+	<player x=".45" y=".4" type="CHB" />
+	<player x=".45" y=".6" type="CHB" />
+	<player x=".45" y=".85" type="RHB" />
+	<player x=".65" y=".4" type="LF" />
+	<player x=".65" y=".6" type="RF" />	
+</formation>

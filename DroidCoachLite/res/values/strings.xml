@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DroidCoachLiteActivity!</string>
+    <string name="app_name">DroidCoachLite</string>
+    <string-array name="soccer_formations">
+    	<item>442</item>
+    	<item>433</item>
+    </string-array>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/red_formation"
+          android:icon="@drawable/icon"
+          android:title="Red Form" >
+        <!-- "file" submenu -->
+        <menu>
+        	<group android:checkableBehavior="single">
+        		<item android:id="@+id/red3223"
+	                  android:title="3223" />
+	            <item android:id="@+id/red3232"
+	                  android:title="3232" />
+	            <item android:id="@+id/red343"
+	                  android:title="343" />
+	            <item android:id="@+id/red352"
+	                  android:title="352" />
+	            <item android:id="@+id/red4231"
+	                  android:title="4231" />
+	            <item android:id="@+id/red433"
+	                  android:title="433" />
+	            <item android:id="@+id/red442"
+	                  android:title="442" />
+	            <item android:id="@+id/red451"
+	                  android:title="451" />
+	            <item android:id="@+id/redleftcnr_flat"
+	                  android:title="Left Corner Flat" />      
+        	</group>
+        </menu>
+    </item>
+    <item android:id="@+id/blue_formation"
+          android:icon="@drawable/icon"
+          android:title="Blue Form" >
+        <!-- "file" submenu -->
+        <menu>
+        	<group android:checkableBehavior="single">
+        		<item android:id="@+id/blue3223"
+	                  android:title="3223" />
+	            <item android:id="@+id/blue3232"
+	                  android:title="3232" />
+	            <item android:id="@+id/blue343"
+	                  android:title="343" />
+	            <item android:id="@+id/blue352"
+	                  android:title="352" />
+	            <item android:id="@+id/blue4231"
+	                  android:title="4231" />
+	            <item android:id="@+id/blue433"
+	                  android:title="433" />
+	            <item android:id="@+id/blue442"
+	                  android:title="442" />
+	            <item android:id="@+id/blue451"
+	                  android:title="451" />
+	            <item android:id="@+id/blueleftcnr_flat"
+	                  android:title="Left Corner Flat" />
+        	</group>
+        </menu>
+    </item>
+    <item android:id="@+id/red_show"
+          android:icon="@drawable/icon"
+          android:title="Show/Hide Red" />
+    <item android:id="@+id/blue_show"
+          android:icon="@drawable/icon"
+          android:title="Show/Hide Blue" />
+    <item android:id="@+id/save_form"
+          android:icon="@drawable/icon"
+          android:title="SaveFormation" />
+</menu>
